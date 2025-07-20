@@ -1,0 +1,53 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f0f0f0;
+  color: #333;
+}
+header {
+  background: #111;
+  color: white;
+  padding: 50px 20px;
+  text-align: center;
+}
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  background: #00aaff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+section {
+  padding: 40px 20px;
+  text-align: center;
+}
+.plan {
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  width: 250px;
+}
+.buy-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: #00aa66;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.buy-btn:hover {
+  background: #008f55;
+}
+footer {
+  text-align: center;
+  background: #222;
+  color: white;
+  padding: 20px;
+}
